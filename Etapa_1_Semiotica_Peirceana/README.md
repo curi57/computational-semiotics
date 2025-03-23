@@ -1,4 +1,4 @@
-✨ Etapa 1: Consolidar a Semiótica Peirceana de Forma Viva e Aplicada
+# ✨ Etapa 1: Consolidar a Semiótica Peirceana de Forma Viva e Aplicada
 
 Você já tem uma base, então aqui vamos cruzar categorias e tipos de signos com prática simbólica e desconforto produtivo.
 
