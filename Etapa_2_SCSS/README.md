@@ -1,8 +1,11 @@
-# Etapa 2 – Modelo SCSS (Sistema de Controle Situacional Semiótico)
+# 🤖 Etapa 2: Mergulho na Semiótica Computacional com SCSS (Sistema de Controle Situacional Semiótico)
 
-Exploração do modelo computacional russo com foco nos elementos SM, DSN, SCL, SKB e SS.
+O russo chegou. Vamos dissecar esse modelo com código, autômatos e desafios cerebrais.
 
-## Objetivos
-- Implementar autômatos semióticos
-- Codificar conhecimento situacional adaptativo
-- Simular redes de conceitos e transições
+🎯 Objetivos
+
+Estudar e implementar os componentes: SM, DSN, SCL, SKB, SS
+
+Criar autômatos semióticos
+
+Pensar em sistemas cognitivos e adaptativos baseados em SCSS
