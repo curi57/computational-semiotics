@@ -1,8 +1,11 @@
-# Etapa 1 – Semiótica Peirceana
+✨ Etapa 1: Consolidar a Semiótica Peirceana de Forma Viva e Aplicada
 
-Consolidação dos fundamentos da semiótica de Peirce: categorias fenomenológicas, tipos de signos e processos de semiose.
+    Você já tem uma base, então aqui vamos cruzar categorias e tipos de signos com prática simbólica e desconforto produtivo.
 
-## Objetivos
-- Navegar entre Primeiridade, Secundidade, Terceiridade
-- Relacionar categorias com tipos de signos
-- Criar estruturas e metáforas computacionais baseadas nesses conceitos
+🎯 Objetivos
+
+    Navegar entre Primeiridade, Secundidade, Terceiridade
+
+    Entender profundamente a relação entre ícone, índice e símbolo
+
+    Criar estruturas computacionais para representar esses conceitos
