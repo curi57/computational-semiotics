@@ -1,4 +1,4 @@
-# Roadmap Não-Linear para Domínio de Semiótica Computacional
+# 🧭 Roadmap Não-Linear para Dominar Semiótica Computacional
 
 Este repositório contém três etapas principais:
 
